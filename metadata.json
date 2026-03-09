@@ -1,0 +1,7 @@
+{
+  "name": "Eu te Indico",
+  "description": "Plataforma de Assinaturas, Eventos e Conteúdo por Hub's para networking e visibilidade empresarial.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
